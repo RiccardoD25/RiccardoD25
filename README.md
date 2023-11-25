@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Unity Software Development Projects:</h2>
 
-- <b>C# Source Code (Unity C# Scripts)</b>
+- <b>C# Active Directory (Unity C# Scripts)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Unity Completed Projects (Using Oculus Quest 2)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>C# (.NET Desktop Applications)</b>
+- <b>C# Active Directory (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
