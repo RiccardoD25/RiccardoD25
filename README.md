@@ -7,7 +7,7 @@
 - <b>Unity Completed Projects (Using Oculus Quest 2)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>C# Active Directory (.NET Desktop Applications)</b>
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Keylogger with Email Capability](https://github.com/RiccardoD25/Csharp-Scripts/tree/main)
 
 <h2> 🤳 Check Out My LinkedIn:</h2>
 
