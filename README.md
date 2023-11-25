@@ -8,6 +8,8 @@
   - [Under Construction](https://github.com/RiccardoD25/Unity_Scripts/tree/main)
 - <b>C# Active Directory (.NET Desktop Applications)</b>
   - [Windows Forms Applications](https://github.com/RiccardoD25/Csharp-Scripts/tree/main)
+- <b>Python Active Directory
+  - 
 
 <h2> 🤳 Check Out My LinkedIn:</h2>
 
