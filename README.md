@@ -9,7 +9,7 @@
 - <b>C# Active Directory (.NET Desktop Applications)</b>
   - [Windows Forms Applications](https://github.com/RiccardoD25/Csharp-Scripts/tree/main)
 - <b>Python Active Directory</b>
-  - [Windows Forms Applications](https://github.com/RiccardoD25/Csharp-Scripts/tree/main)
+  - [Python Programs](https://github.com/RiccardoD25/Python-Programs/tree/main)
 
 <h2> 🤳 Check Out My LinkedIn:</h2>
 
