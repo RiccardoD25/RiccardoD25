@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Unity Software Development Projects:</h2>
 
-- <b>C# Active Directory (Unity C# Scripts)</b>
+- <b>C# Active Directory (Unity Scripts)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Unity Completed Projects (Using Oculus Quest 2)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
