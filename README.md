@@ -5,7 +5,7 @@
 - <b>C# Active Directory (Unity Scripts For Game Develpopment)</b>
   - [Unity Game Projects](https://github.com/RiccardoD25/Unity_Scripts/tree/main)
 - <b>Unity Completed Projects (Using Oculus Quest 2)</b>
-  - [Praciting DS & Algos in Python](https://github.com/RiccardoD25/Unity_Scripts/tree/main)
+  - [Under Construction](https://github.com/RiccardoD25/Unity_Scripts/tree/main)
 - <b>C# Active Directory (.NET Desktop Applications)</b>
   - [Windows Forms Applications](https://github.com/RiccardoD25/Csharp-Scripts/tree/main)
 
