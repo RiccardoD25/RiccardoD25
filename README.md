@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Riccardo!</h1>
 
-<h2>👨‍💻 Unity Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C# Active Directory (Unity Scripts For Game Develpopment)</b>
   - [Unity Game Projects](https://github.com/RiccardoD25/Unity_Scripts/tree/main)
