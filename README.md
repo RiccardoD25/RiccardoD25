@@ -21,9 +21,6 @@
    
 
 <h2> 🤳 Check Out My LinkedIn:</h2>
+  https://www.linkedin.com/in/rd-riccardo-de-simini/
 
-https://www.linkedin.com/in/riccardo-de-simini-4029253a/
-
-
-[linkedin]: (https://www.linkedin.com/in/rd-riccardo-de-simini/)
 
