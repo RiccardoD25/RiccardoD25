@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>C# Active Directory (Unity Scripts For Game Develpopment)</b>
+- <b>C# Active Directory (Unity Scripts For Game Development)</b>
   - [Corona Game Project](https://github.com/RiccardoD25/Unity_Scripts/tree/main)
   - [Spring Box Game Project](https://github.com/RiccardoD25/Unity-Game-Project-Spring-Box)
   - [Alien Target Game Project](https://github.com/RiccardoD25/Unity-Game-Project-Alien-Target)   
