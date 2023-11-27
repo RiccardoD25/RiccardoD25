@@ -25,5 +25,5 @@
 https://www.linkedin.com/in/riccardo-de-simini-4029253a/
 
 
-[linkedin]: https://linkedin.com/in/RiccardoDe-Simini
+[linkedin]: (https://www.linkedin.com/in/rd-riccardo-de-simini/)
 
