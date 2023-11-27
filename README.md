@@ -5,7 +5,7 @@
 - <b>C# Active Directory (Unity Scripts For Game Develpopment)</b>
   - [Unity Game Projects](https://github.com/RiccardoD25/Unity_Scripts/tree/main)
 - <b>VR Quest 2 Videos (Completed Games)</b>
-  - [Under Construction](https://github.com/RiccardoD25/Unity-Game-Projects/tree/main)
+  - [Quest 2 Videos](https://github.com/RiccardoD25/Completed-VR-Quest-2-Videos/tree/main)
 - <b>C# Active Directory (.NET Desktop Applications)</b>
   - [Windows Forms Applications](https://github.com/RiccardoD25/Csharp-Scripts/tree/main)
 - <b>Python Active Directory</b>
