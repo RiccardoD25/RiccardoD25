@@ -6,7 +6,6 @@
   - [Corona Game Project](https://github.com/RiccardoD25/Unity_Scripts/tree/main)
   - [Spring Box Game Project](https://github.com/RiccardoD25/Unity-Game-Project-Spring-Box)
   - [Driving Track Game Project](https://github.com/RiccardoD25/Unity-Game-Project-Alien-Target)
-  - [Alien Target Game Project](https://github.com/RiccardoD25/Unity-Game-Project-Alien-Target)
 - <b>VR Quest 2 Videos (Completed Games)</b>
   - [Quest 2 Videos](https://github.com/RiccardoD25/Completed-VR-Quest-2-Videos/tree/main)
 - <b>C# Active Directory (.NET Desktop Applications)</b>
