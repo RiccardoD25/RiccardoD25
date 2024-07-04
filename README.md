@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Unity Develipment Directory</b>
+- <b>Unity Development Directory</b>
   - [Corona Game Project](https://github.com/RiccardoD25/Unity_Scripts/tree/main)
   - [Spring Box Game Project](https://github.com/RiccardoD25/Unity-Game-Project-Spring-Box)
   - [Driving Track Game Project](https://github.com/RiccardoD25/Unity-Game-Project-Alien-Target)
