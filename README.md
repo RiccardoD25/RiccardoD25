@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Riccardo!</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Projects/Content Creation:</h2>
 
 - <b>Unity Development Directory</b>
   - [Corona Game Project](https://github.com/RiccardoD25/Unity_Scripts/tree/main)
