@@ -7,7 +7,7 @@
   - [Spring Box Game Project](https://github.com/RiccardoD25/Unity-Game-Project-Spring-Box)
   - [Alien Target Game Project](https://github.com/RiccardoD25/Unity-Game-Project-Alien-Target)
   - [Driving Track Game Project](https://github.com/RiccardoD25/Driving-Track-Game-Project/tree/main)
-- <b>VR Quest 9 Videos (Completed Projects)</b>
+- <b>Completed Projects - 9 Videos (Completed Projects)</b>
   - [Quest 9 Videos](https://github.com/RiccardoD25/Completed-VR-Quest-2-Videos/tree/main)
 - <b>C# Active Directory (.NET Desktop Applications)</b>
   - [Windows Forms Applications](https://github.com/RiccardoD25/Csharp-Scripts/tree/main)
